@@ -4,5 +4,5 @@ jinja2
 soundfile
 torch
 transformers
-numpy
-espeak-ng
+numpy<2.0
+kokoro
