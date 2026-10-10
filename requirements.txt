@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-jinja2
 soundfile
 torch
 transformers
 numpy<2.0
 kokoro
+python-multipart
